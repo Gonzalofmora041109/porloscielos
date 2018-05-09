@@ -1,0 +1,34 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Formulario\obj\x86\Debug\Estadistica.baml
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Formulario\obj\x86\Debug\MainWindow.baml
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Formulario\obj\x86\Debug\Estadistica.g.cs
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Formulario\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Formulario\obj\x86\Debug\App.g.cs
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Formulario\obj\x86\Debug\Formulario_MarkupCompile.cache
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Formulario\obj\x86\Debug\Formulario.g.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Formulario\obj\x86\Debug\Formulario.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Formulario\obj\x86\Debug\Formulario.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Formulario\obj\x86\Debug\Formulario.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Formulario\bin\Debug\Formulario.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Formulario\bin\Debug\Aerolinia.dll
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Formulario\bin\Debug\Aerolinia.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Formulario\obj\x86\Debug\Formulario.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Formulario\obj\x86\Debug\Formulario.pdb
+E:\dirpogra\PorLosCielos\Formulario\bin\Debug\Formulario.exe
+E:\dirpogra\PorLosCielos\Formulario\bin\Debug\Formulario.pdb
+E:\dirpogra\PorLosCielos\Formulario\bin\Debug\Aerolinia.dll
+E:\dirpogra\PorLosCielos\Formulario\bin\Debug\Aerolinia.pdb
+E:\dirpogra\PorLosCielos\Formulario\obj\x86\Debug\Formulario.csprojResolveAssemblyReference.cache
+E:\dirpogra\PorLosCielos\Formulario\obj\x86\Debug\Estadistica.baml
+E:\dirpogra\PorLosCielos\Formulario\obj\x86\Debug\MainWindow.baml
+E:\dirpogra\PorLosCielos\Formulario\obj\x86\Debug\Estadistica.g.cs
+E:\dirpogra\PorLosCielos\Formulario\obj\x86\Debug\MainWindow.g.cs
+E:\dirpogra\PorLosCielos\Formulario\obj\x86\Debug\App.g.cs
+E:\dirpogra\PorLosCielos\Formulario\obj\x86\Debug\Formulario_MarkupCompile.cache
+E:\dirpogra\PorLosCielos\Formulario\obj\x86\Debug\Formulario.g.resources
+E:\dirpogra\PorLosCielos\Formulario\obj\x86\Debug\Formulario.Properties.Resources.resources
+E:\dirpogra\PorLosCielos\Formulario\obj\x86\Debug\Formulario.csproj.GenerateResource.cache
+E:\dirpogra\PorLosCielos\Formulario\obj\x86\Debug\Formulario.csproj.CoreCompileInputs.cache
+E:\dirpogra\PorLosCielos\Formulario\obj\x86\Debug\Formulario.csproj.CopyComplete
+E:\dirpogra\PorLosCielos\Formulario\obj\x86\Debug\Formulario.exe
+E:\dirpogra\PorLosCielos\Formulario\obj\x86\Debug\Formulario.pdb

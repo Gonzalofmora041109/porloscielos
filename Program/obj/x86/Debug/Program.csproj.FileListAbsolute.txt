@@ -1,0 +1,7 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Program\bin\Debug\Program.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Program\bin\Debug\Program.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Program\bin\Debug\Aerolinia.dll
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Program\bin\Debug\Aerolinia.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Program\obj\x86\Debug\Program.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Program\obj\x86\Debug\Program.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Program\obj\x86\Debug\Program.csprojResolveAssemblyReference.cache

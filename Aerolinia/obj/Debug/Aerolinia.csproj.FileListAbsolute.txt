@@ -1,0 +1,11 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Aerolinia\obj\Debug\Aerolinia.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Aerolinia\bin\Debug\Aerolinia.dll
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Aerolinia\bin\Debug\Aerolinia.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Aerolinia\obj\Debug\Aerolinia.dll
+C:\Users\Admin\documents\visual studio 2010\Projects\PorLosCielos\Aerolinia\obj\Debug\Aerolinia.pdb
+E:\dirpogra\PorLosCielos\Aerolinia\bin\Debug\Aerolinia.dll
+E:\dirpogra\PorLosCielos\Aerolinia\bin\Debug\Aerolinia.pdb
+E:\dirpogra\PorLosCielos\Aerolinia\obj\Debug\Aerolinia.csprojResolveAssemblyReference.cache
+E:\dirpogra\PorLosCielos\Aerolinia\obj\Debug\Aerolinia.csproj.CoreCompileInputs.cache
+E:\dirpogra\PorLosCielos\Aerolinia\obj\Debug\Aerolinia.dll
+E:\dirpogra\PorLosCielos\Aerolinia\obj\Debug\Aerolinia.pdb
