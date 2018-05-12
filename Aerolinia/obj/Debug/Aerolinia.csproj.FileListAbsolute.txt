@@ -9,3 +9,16 @@ E:\dirpogra\PorLosCielos\Aerolinia\obj\Debug\Aerolinia.csprojResolveAssemblyRefe
 E:\dirpogra\PorLosCielos\Aerolinia\obj\Debug\Aerolinia.csproj.CoreCompileInputs.cache
 E:\dirpogra\PorLosCielos\Aerolinia\obj\Debug\Aerolinia.dll
 E:\dirpogra\PorLosCielos\Aerolinia\obj\Debug\Aerolinia.pdb
+C:\Users\gtec\source\repos\solucioncielo\porloscielos\Aerolinia\bin\Debug\Aerolinia.dll
+C:\Users\gtec\source\repos\solucioncielo\porloscielos\Aerolinia\bin\Debug\Aerolinia.pdb
+C:\Users\gtec\source\repos\solucioncielo\porloscielos\Aerolinia\bin\Debug\EntityFramework.dll
+C:\Users\gtec\source\repos\solucioncielo\porloscielos\Aerolinia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gtec\source\repos\solucioncielo\porloscielos\Aerolinia\bin\Debug\EntityFramework.xml
+C:\Users\gtec\source\repos\solucioncielo\porloscielos\Aerolinia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gtec\source\repos\solucioncielo\porloscielos\Aerolinia\obj\Debug\Aerolinia.csprojResolveAssemblyReference.cache
+C:\Users\gtec\source\repos\solucioncielo\porloscielos\Aerolinia\obj\Debug\Aerolinia.csproj.CoreCompileInputs.cache
+C:\Users\gtec\source\repos\solucioncielo\porloscielos\Aerolinia\obj\Debug\Aerolinia.csproj.CopyComplete
+C:\Users\gtec\source\repos\solucioncielo\porloscielos\Aerolinia\obj\Debug\Aerolinia.dll
+C:\Users\gtec\source\repos\solucioncielo\porloscielos\Aerolinia\obj\Debug\Aerolinia.pdb
+C:\Users\gtec\source\repos\solucioncielo\porloscielos\Aerolinia\obj\Debug\Aerolinia.Migrations._base.resources
+C:\Users\gtec\source\repos\solucioncielo\porloscielos\Aerolinia\obj\Debug\Aerolinia.csproj.GenerateResource.cache

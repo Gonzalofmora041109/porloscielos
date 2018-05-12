@@ -12,7 +12,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Aerolinia;
-
+using Aerolinia.Servicios;
 namespace Formulario
 {
     /// <summary>
@@ -65,7 +65,7 @@ namespace Formulario
             Limpiar();
         }
 
-        private void button1_Click(object sender, RoutedEventArgs e)
+        private void Btn_Agregar(object sender, RoutedEventArgs e)
         {
 
             try
@@ -74,6 +74,10 @@ namespace Formulario
                 PoblarPasajes(ref regg);
                 cont++;
                 registro.Add(regg);
+                Create_user create_User = new Create_user();
+                string nombre = textBox1.Text;
+                string apellido = textBox2.Text;
+                create_User.Agregar(nombre,apellido);
 
                 MessageBox.Show("Pasaje registrado", "Información", MessageBoxButton.OK, MessageBoxImage.Information);
             }
@@ -134,6 +138,7 @@ namespace Formulario
             regg.Total = int.Parse(textBox5.Text);
 
         }
-       
+
+        
     }
 }
