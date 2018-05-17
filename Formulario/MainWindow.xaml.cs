@@ -78,7 +78,7 @@ namespace Formulario
                 Create_user create_User = new Create_user();
                 string nombre = textBox1.Text;
                 string apellido = textBox2.Text;
-                create_User.Agregar(nombre,apellido);
+                create_User.registrar(nombre,apellido);
 
                 MessageBox.Show("Pasaje registrado", "Información", MessageBoxButton.OK, MessageBoxImage.Information);
             }

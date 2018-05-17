@@ -64,6 +64,7 @@
     <Compile Include="RegistroPasaje.cs" />
     <Compile Include="Servicios\BuscarUser.cs" />
     <Compile Include="Servicios\Create_user.cs" />
+    <Compile Include="Servicios\IModelo.cs" />
     <Compile Include="SoloIda.cs" />
   </ItemGroup>
   <ItemGroup>
