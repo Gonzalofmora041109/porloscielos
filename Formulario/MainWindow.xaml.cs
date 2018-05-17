@@ -39,8 +39,9 @@ namespace Formulario
             Close();
         }
 
-        private void button2_Click(object sender, RoutedEventArgs e)
+        private void Btn_Mostrar(object sender, RoutedEventArgs e)
         {
+           
             dataGrid1.ItemsSource = registro;
             dataGrid1.Items.Refresh();
         }
@@ -136,9 +137,10 @@ namespace Formulario
             regg.Tipo = (TipoPasaje)comboBox3.SelectedValue;
             regg.ValorB = int.Parse(textBox3.Text);
             regg.Total = int.Parse(textBox5.Text);
+            regg.Nombres = "hola";
 
         }
 
-        
+       
     }
 }

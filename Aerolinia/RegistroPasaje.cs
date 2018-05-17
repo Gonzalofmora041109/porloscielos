@@ -9,7 +9,7 @@ namespace Aerolinia
     public class RegistroPasaje
     {
         #region varibales
-        protected string _nombre, _apellidos;
+        protected string _nombre, _apellidos,_Nombres;
         protected TipoPasaje _tipo;
         protected int _valorB, _total;
         #endregion
@@ -39,6 +39,11 @@ namespace Aerolinia
             get { return _total; }
 
             set { _total = value; }
+        }
+        public string Nombres {
+            get { return _Nombres; }
+
+            set { _Nombres = value; }
         }
         #endregion
 
